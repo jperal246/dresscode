@@ -39,7 +39,7 @@ An optional gesture module lets you browse suggestions hands-free using a tempor
 ## Repository structure
 
 ```
-wardrobe-vision/
+dresscode/
 │
 ├── README.md
 ├── LICENSE
